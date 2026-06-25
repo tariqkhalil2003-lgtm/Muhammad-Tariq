@@ -1,0 +1,6 @@
+{
+  "name": "DropShip Automator",
+  "description": "Automate your dropshipping business with AI-powered market analysis, product sourcing, and strategy optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
